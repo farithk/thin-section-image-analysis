@@ -1,0 +1,5 @@
+image,phase,connected components (ndi.label),objects after watershed + merge
+small,grain,480,803
+small,pore,282,406
+large,grain,2066,3739
+large,pore,1199,1751

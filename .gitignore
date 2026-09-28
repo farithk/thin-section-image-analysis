@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Word report and its backups (not published)
+report/
+scripts/build_report.py
+scripts/build_report_v1_backup.py
+
+# Course material (exercise sheet, class notes and the thin-section photographs)
+*.pdf
+Lamina_alunos2.png
+Lamina_alunos_grande.png
+
+# Local tool settings
+.claude/

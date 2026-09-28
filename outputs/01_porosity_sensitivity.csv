@@ -1,0 +1,8 @@
+rule,large,small
+b* < Otsu,11.53,12.19
+"hue, chroma > 10",13.6,14.33
+"hue, chroma > 3",21.38,21.64
+"hue, chroma > 4",19.91,20.25
+"hue, chroma > 5",18.57,18.99
+"hue, chroma > 6",17.37,17.85
+"hue, chroma > 8",15.32,15.91
